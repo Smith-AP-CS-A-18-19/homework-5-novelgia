@@ -25,12 +25,12 @@ public class Homework5 {
 	 * an example
 	 */
 	public boolean contains(String s) {
-		
+
 	}
 
 	/* Return the larger of the two stored numbers
 	 */
-	public static int max() {
+	public int max() {
 
 	}
 
