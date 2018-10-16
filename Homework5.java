@@ -11,7 +11,7 @@ public class Homework5 {
 	 * length characters. If length would run past the end of the String,
 	 * have the substring end at the end of the stored String.
 	 * For example, if the stored String is "Happy" and the call is made
-	 * substring(2, 5), the method should return "ppy"
+	 * substring(2, 3), the method should return "ppy"
 	 * Note that the parameters in this method are different from the
 	 * substring method in the String class
 	 */
